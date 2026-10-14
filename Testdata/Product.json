@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "price": 2499.99,
+    "category": "Electronics",
+    "image": "https://example.com/images/bluetooth-headphones.jpg"
+  },
+  {
+    "title": "Leather Office Bag",
+    "description": "Premium leather office bag suitable for laptops and documents.",
+    "price": 3499.50,
+    "category": "Accessories",
+    "image": "https://example.com/images/office-bag.jpg"
+  },
+  {
+    "title": "Running Shoes",
+    "description": "Comfortable lightweight running shoes designed for everyday workouts.",
+    "price": 1999.00,
+    "category": "Footwear",
+    "image": "https://example.com/images/running-shoes.jpg"
+  }
+]

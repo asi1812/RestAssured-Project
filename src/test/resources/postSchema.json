@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "thumbnail": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "publishedAt": {
+      "type": "string"
+    },
+    "updatedAt": {
+      "type": "string"
+    },
+    "userId": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "id",
+    "slug",
+    "url",
+    "title",
+    "content",
+    "image",
+    "thumbnail",
+    "status",
+    "category",
+    "publishedAt",
+    "updatedAt",
+    "userId"
+  ]
+}
